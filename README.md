@@ -25,3 +25,9 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/DarshanPatel311/furnitureapp/assets/143177575/4e3c1e63-a974-4388-8b53-d4814f8b0542" width="400">
 
 
+
+
+
+<video src="https://github.com/DarshanPatel311/furnitureapp/assets/143177575/500f3bc3-fa82-49a1-90db-bd129748f867" width="400">
+
+
